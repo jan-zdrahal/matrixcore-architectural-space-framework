@@ -6,7 +6,7 @@ Date: 2026-03-20
 
 Author: Jan Zdráhal  
 ORCID: https://orcid.org/0009-0005-2012-1234  
-DOI: <DOI pending>  
+DOI: https://doi.org/10.5281/zenodo.19153595   
 
 ---
 
