@@ -89,8 +89,8 @@ Repository working versions may contain drafts that are not canonical.
 
 Canonical publication references:
 
-DOI: <DOI pending>  
-Repository: https://github.com/<repository>  
+DOI: https://doi.org/10.5281/zenodo.19153595  
+Repository: https://github.com/jan-zdrahal/matrixcore-architectural-space-framework  
 Release tag: v1.0
 
 ---
