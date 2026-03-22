@@ -7,6 +7,7 @@ Date: 2026-03-20
 Author: Jan Zdráhal  
 ORCID: https://orcid.org/0009-0005-2012-1234  
 DOI: https://doi.org/10.5281/zenodo.19153595   
+Web: https://matrixcore.org  
 
 ---
 
@@ -77,9 +78,9 @@ Projection mechanisms provide interpretation layers over architecture.
 
 ## Canonical Version
 
-The canonical version of this specification is defined by the DOI record once assigned.
+The canonical version of this specification is defined by the DOI record:
 
-Until DOI assignment, the canonical version is defined by the tagged repository release.
+https://doi.org/10.5281/zenodo.19153595
 
 Repository working versions may contain drafts that are not canonical.
 
@@ -87,11 +88,14 @@ Repository working versions may contain drafts that are not canonical.
 
 ## Publication
 
-Canonical publication references:
+DOI:  
+https://doi.org/10.5281/zenodo.19153595  
 
-DOI: https://doi.org/10.5281/zenodo.19153595  
-Repository: https://github.com/jan-zdrahal/matrixcore-architectural-space-framework  
-Release tag: v1.0
+Repository:  
+https://github.com/jan-zdrahal/matrixcore-architectural-space-framework  
+
+Release tag:  
+v1.0  
 
 ---
 
@@ -109,9 +113,14 @@ Canonical versions are immutable once published.
 
 ## Related Specifications
 
-MatrixCore System Overview: <DOI or URL>  
-MatrixCore Design Principles: <DOI or URL>  
-MatrixCore Licensing Model: <DOI or URL>
+MatrixCore System Overview  
+https://doi.org/10.5281/zenodo.19154320  
+
+MatrixCore Design Principles  
+https://doi.org/10.5281/zenodo.19155760  
+
+MatrixCore Licensing Model  
+https://doi.org/10.5281/zenodo.19160540  
 
 ---
 
